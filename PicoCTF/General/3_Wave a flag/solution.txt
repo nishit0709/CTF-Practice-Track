@@ -1,0 +1,1 @@
+Very obvious solution. run the code with -h flag
