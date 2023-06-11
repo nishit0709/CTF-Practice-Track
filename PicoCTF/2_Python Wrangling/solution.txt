@@ -1,0 +1,1 @@
+Went throught the python code. I was a decryption code. Ran help menu and passed the relevant data, got flag in return
