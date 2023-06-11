@@ -1,0 +1,3 @@
+run this nc command and convert the ascii data to char
+
+nc mercury.picoctf.net 22342

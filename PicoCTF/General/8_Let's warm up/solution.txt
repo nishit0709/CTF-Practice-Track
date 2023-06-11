@@ -1,0 +1,5 @@
+Convert the given string to ascii from hex and give the output
+
+ASCII(0x70) => p  
+
+Flag: picoCTF{p}

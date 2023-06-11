@@ -1,0 +1,6 @@
+login in to remote shell and look for the flags which is split in 3 locations
+
+Part 1 : picoCTF{xxsh_
+Part 2 : 0ut_0f_\/\/4t3r_
+Part 3 : 1118a9a4}
+Flag : picoCTF{xxsh_0ut_0f_\/\/4t3r_1118a9a4}

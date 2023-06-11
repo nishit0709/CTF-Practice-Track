@@ -1,0 +1,1 @@
+Unzip the file and navigate to the text file in the sub directories

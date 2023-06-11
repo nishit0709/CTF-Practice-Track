@@ -1,0 +1,1 @@
+run the bash script by passing the static file as a parameter and check for the flag in the output
