@@ -1,0 +1,6 @@
+call the server, answer the question and grab the flag
+
+use this to get hash on the fly
+
+echo -n "string" | md5sum 
+

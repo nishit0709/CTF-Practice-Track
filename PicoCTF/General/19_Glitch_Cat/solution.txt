@@ -1,0 +1,1 @@
+call the remote server, returns partially converted string. pass it to python console to get the flag
