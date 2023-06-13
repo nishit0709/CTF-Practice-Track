@@ -1,0 +1,2 @@
+A good challenge. Check for the permissions you have using sudo -l . From there you can see you can run vi as sudo. run vi as sudo and using the 
+vi command line look for the files in /root

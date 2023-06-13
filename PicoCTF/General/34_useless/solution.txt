@@ -1,0 +1,1 @@
+The script was indeed useless. Just had to lookup it's man page for the flag

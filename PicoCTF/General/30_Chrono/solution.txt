@@ -1,0 +1,1 @@
+Log in to remote server and checkout crontab to get the flag

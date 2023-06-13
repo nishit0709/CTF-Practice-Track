@@ -1,0 +1,5 @@
+log into server
+
+Binary -> Text
+Octal -> Text
+Hex -> Text

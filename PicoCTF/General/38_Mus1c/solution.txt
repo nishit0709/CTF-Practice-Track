@@ -1,0 +1,1 @@
+The given lyrics is actually code in a language called rockstar. run in its editor and convert the output to ascii
